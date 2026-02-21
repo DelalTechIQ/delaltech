@@ -1,0 +1,2 @@
+# delaltech
+inventory management system
